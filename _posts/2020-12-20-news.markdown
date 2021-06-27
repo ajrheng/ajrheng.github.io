@@ -7,6 +7,12 @@ categories: news
 
 <ul class="news">
     <li class="indent">
+        04 / 2021: &ensp; Admitted to the Computer Science PhD program at the National University of Singapore!
+    </li>
+</ul>
+
+<!-- <ul class="news">
+    <li class="indent">
         06 / 2021: &ensp; Two papers submitted to <strong>WACV</strong> and two papers submitted to <strong>NeurIPS</strong> 2021.
     </li>
     <li class="indent">
@@ -51,4 +57,4 @@ categories: news
     <li class="indent">
         03 / 2017: &ensp; The <strong>silver medal (rank5)</strong> of HUAWEI Code Craft 2017 in Beijing site, acknowledgement to my partners <a href="https://scholar.google.com/citations?user=dlsUakAAAAAJ">Yudong Wu</a> and Xingyuan Gao.
     </li>
-</ul>
+</ul> -->

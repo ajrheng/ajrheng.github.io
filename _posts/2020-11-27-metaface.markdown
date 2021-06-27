@@ -8,6 +8,7 @@ authors: <a href="https://scholar.google.com/citations?user=W8_JzNcAAAAJ"><stron
 venue: <strong>TIFS</strong> (<i>IEEE <b>T</b>ransactions on <b>I</b>nformation <b>F</b>orensics and <b>S</b>ecurity</i>) (<strong>Accepted</strong>)
 
 paper: assets/pdfs/tifs20_MetaFace_preview.pdf
+lols: <a href="https://google.com"><u>LOL</u></a>
 # arxiv: https://arxiv.org/abs/1901.00488
 ---
 This paper proposes a novel training remedy by decomposing the model into the weight parameters and the BN statistics in the training phase. Based on decomposing, we design a novel framework via meta-learning, called <i>Decomposed Meta Batch Normalization</i> (DMBN) for fast domain adaptation in face recognition.
