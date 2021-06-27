@@ -24,7 +24,7 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr style="padding:0px">
             <td style="padding:2.5%;width:66.6%;vertical-align:middle">
-              <h1>Jianzhu Guo（郭建珠）</h1>
+              <h1>Alvin Heng</h1>
               <p>
                   I graduated from <a href="http://www.seu.edu.cn/">Southeast University</a> with B.S. in GIS (Geographical Information System).
                   Now, I am a Ph.D. student at <a href="http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/home.shtml">National Laboratory of Pattern Recognition</a>, <a href="http://english.cas.cn/">Chinese Academy of Sciences</a>, supervised by Prof. <a href="https://scholar.google.com/citations?user=Y-nyLGIAAAAJ"><b>Stan Z. Li</b></a> and Prof. <a href="https://scholar.google.com/citations?user=cuJ3QG8AAAAJ">Zhen Lei</a>, work closely with Associate Prof. <a href="https://scholar.google.com/citations?user=1rbNk5oAAAAJ">Xiangyu Zhu</a>, where I mainly research on face & vision, including <strong>face recognition</strong>, <strong>3D face</strong>, <strong>face anti-spoofing</strong>, <strong>face analysis</strong> and <strong>meta learning</strong>, <strong>deep learning</strong>.
@@ -111,17 +111,17 @@
               {% if post.supp %}
               <a href="{{post.supp}}">supp</a> /
               {% endif %}
-              {% if post.video1 %}
-              <a href="{{post.video1}}">video1</a> /
-              {% endif %}
-              {% if post.video2 %}
-              <a href="{{post.video2}}">video2</a> /
-              {% endif %}
-              {% if post.poster %}
+               {% if post.poster %}
               <a href="{{post.poster}}">poster</a> /
               {% endif %}
               {% if post.code %}
               <a href="{{post.code}}">code</a> /
+              {% endif %}
+              {% if post.journal %}
+              <a href="{{post.journal}}">journal</a> /
+              {% endif %}
+              {% if post.conference %}
+              <a href="{{post.conference}}">journal</a> /
               {% endif %}
               <p></p>
               {{ post.excerpt }}
@@ -274,7 +274,6 @@
           {% endfor %}
         </table>
         <br/><hr class="style-two"><br/>
-        <!-- 联系方式 -->
         <table style="width:60%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
               <h2 style="padding:1%;width:100%;vertical-align:middle"><b>Contact (WeChat QR Code)</b></h2>
@@ -287,7 +286,6 @@
           </tr>
         </table>
         <hr class="style-two"><br/>
-        <!-- 访问数据统计 -->
         <table style="width:40%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
               <td style="padding:0px">
@@ -300,7 +298,6 @@
               </td>
           </tr>
         </table>
-        <!-- 来源 -->
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:0px">
