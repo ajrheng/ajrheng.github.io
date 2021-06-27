@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <a href="assets/pdfs/three-magnon.pdf">Three-Magnon Bound State in the Quasi-One-Dimensional Antiferromagnet a-NaMnO2</a>
-date: 2020-14-05 23:59:59 +00:00
+date: 2020-14-05 23:59:60 +00:00
 image: /assets/imgs/three-magnon.jpg
 categories: research
 authors: Rebecca L Dally, <strong>Alvin JR Heng</strong>, Anna Keselman, Mitchell M Bordelon, Matthew B Stone, Leon Balents, Stephen D Wilson

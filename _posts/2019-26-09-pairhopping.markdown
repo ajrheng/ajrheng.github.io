@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <a href="assets/pdfs/pair-hopping.pdf">Pair Hopping in Systems of Strongly Interacting Hard-Core Bosons</a>
-date: 2019-25-09 23:51:60 +00:00
+date: 2019-09-25 23:51:60 +00:00
 image: /assets/imgs/pair-hopping.jpg
 categories: research
 authors: <strong>Alvin JR Heng</strong>, Wenan Guo, Anders W Sandvik, Pinaki Sengupta
