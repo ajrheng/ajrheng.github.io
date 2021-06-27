@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "News"
+date:   2020-12-19 01:21:60 +00:00
+categories: news
+---
+
+<ul class="news">
+    <li class="indent">
+        04 / 2021: Accepted into Computer Science PhD program at the National University of Singapore!
+    </li>
+
+</ul>
