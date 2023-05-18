@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <a href="assets/pdfs/three-magnon.pdf">Three-Magnon Bound State in the Quasi-One-Dimensional Antiferromagnet a-NaMnO2</a>
+title: Three-Magnon Bound State in the Quasi-One-Dimensional Antiferromagnet a-NaMnO2
 date: 2019-01-01 22:21:59 +00:00
 image: /assets/imgs/threemagnon.png
 categories: research

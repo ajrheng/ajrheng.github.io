@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <a href="assets/pdfs/pair-hopping.pdf">Pair Hopping in Systems of Strongly Interacting Hard-Core Bosons</a>
+title: Pair Hopping in Systems of Strongly Interacting Hard-Core Bosons
 date: 2019-01-01 22:21:59 +00:00
 image: /assets/imgs/pairhopping.png
 categories: research

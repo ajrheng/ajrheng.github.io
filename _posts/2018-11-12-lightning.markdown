@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <a href="assets/pdfs/lightning.pdf">Optimal Fee Structure For Efficient Lightning Networks</a>
+title: Optimal Fee Structure For Efficient Lightning Networks
 date: 2019-01-01 22:21:59 +00:00
 image: /assets/imgs/lightning.gif
 categories: research
