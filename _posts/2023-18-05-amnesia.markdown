@@ -1,12 +1,12 @@
 ---
 layout: post
-title: <a href="assets/pdfs/fdrl.pdf">Generative Modeling with Flow-Guided Density Ratio Learning</a>
+title: <a href="assets/pdfs/selective-amnesia.pdf"> Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models</a>
 date: 2019-01-01 22:21:59 +00:00
-image: /assets/imgs/fdrl.png
+image: /assets/imgs/selective-amnesia.png
 categories: research
-authors: <strong>Alvin Heng</strong>, Abdul Fatir Ansari, Harold Soh
+authors: <strong>Alvin Heng</strong>, Harold Soh
 venue: <strong><i>Preprint</i></strong>
 
-paper: assets/pdfs/fdrl.pdf
-arxiv: https://arxiv.org/abs/2303.03714
+paper: assets/pdfs/selective-amnesia.pdf
+arxiv: https://arxiv.org/abs/2305.10120
 ---
