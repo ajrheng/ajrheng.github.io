@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models"
-date: 2019-01-01 22:21:59 +00:00
+date: 2023-18-05 22:21:59 +00:00
 image: /assets/imgs/selective-amnesia.png
 categories: research
 authors: <strong>Alvin Heng</strong>, Harold Soh
