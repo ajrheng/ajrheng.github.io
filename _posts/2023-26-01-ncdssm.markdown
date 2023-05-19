@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <a href="assets/pdfs/ncdssm.pdf">Neural Continuous-Discrete State Space Models for Irregularly-Sampled Time Series</a>
+title: Neural Continuous-Discrete State Space Models for Irregularly-Sampled Time Series
 date: 2019-01-01 22:21:59 +00:00
 image: /assets/imgs/ncdssm.jpeg
 categories: research
