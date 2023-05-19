@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Neural Continuous-Discrete State Space Models for Irregularly-Sampled Time Series
-date: 2023-26-01 22:21:59 +00:00
+title: <a href="assets/pdfs/ncdssm.pdf">Neural Continuous-Discrete State Space Models for Irregularly-Sampled Time Series</a>
+date: 2019-01-01 22:21:59 +00:00
 image: /assets/imgs/ncdssm.jpeg
 categories: research
 authors: Abdul Fatir Ansari, <strong>Alvin Heng</strong>, Andre Lim, Harold Soh
-venue: <strong><i>International Conference on Machine Learning, 2023, Oral</i></strong>
+venue: <strong><i>International Conference on Machine Learing, 2023, Oral</i></strong>
 
 paper: assets/pdfs/ncdssm.pdf
 arxiv: https://arxiv.org/abs/2301.11308
