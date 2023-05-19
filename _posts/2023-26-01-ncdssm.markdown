@@ -5,7 +5,7 @@ date: 2019-01-01 22:21:59 +00:00
 image: /assets/imgs/ncdssm.jpeg
 categories: research
 authors: Abdul Fatir Ansari, <strong>Alvin Heng</strong>, Andre Lim, Harold Soh
-venue: <strong><i>International Conference on Machine Learing, 2023, Oral</i></strong>
+venue: <strong><i>International Conference on Machine Learning, 2023, Oral</i></strong>
 
 paper: assets/pdfs/ncdssm.pdf
 arxiv: https://arxiv.org/abs/2301.11308
