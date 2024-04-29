@@ -7,7 +7,7 @@ categories: research
 authors: <strong>Alvin JR Heng</strong>, Wenan Guo, Anders W Sandvik, Pinaki Sengupta
 venue: <strong><i>Physical Review B</i></strong>
 
-paper: assets/pdfs/pair-hopping.pdf
+#paper: assets/pdfs/pair-hopping.pdf
 journal: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104433
 arxiv: https://arxiv.org/abs/1903.04103
 ---
