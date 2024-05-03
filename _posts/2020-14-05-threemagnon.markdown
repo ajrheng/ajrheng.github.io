@@ -4,7 +4,7 @@ title: Three-Magnon Bound State in the Quasi-One-Dimensional Antiferromagnet a-N
 date: 2019-01-01 22:21:59 +00:00
 image: /assets/imgs/threemagnon.png
 categories: research
-authors: Rebecca L Dally, <strong>Alvin JR Heng</strong>, Anna Keselman, Mitchell M Bordelon, Matthew B Stone, Leon Balents, Stephen D Wilson
+authors: Rebecca L Dally, <strong>Alvin Heng</strong>, Anna Keselman, Mitchell M Bordelon, Matthew B Stone, Leon Balents, Stephen D Wilson
 venue: <strong><i>Physical Review Letters</i></strong>
 
 #paper: assets/pdfs/three-magnon.pdf
