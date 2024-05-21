@@ -8,5 +8,6 @@ authors: <strong>Alvin Heng</strong>, Abdul Fatir Ansari, Harold Soh
 venue: <strong><i>Preprint</i></strong>
 
 #paper: assets/pdfs/fdrl.pdf
-arxiv: https://arxiv.org/abs/2303.03714
+link: https://arxiv.org/abs/2303.03714
+# code: https://github.com/ajrheng/FDRL
 ---

@@ -103,13 +103,13 @@
               <img class="roundBorder" src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
             <td style="padding:2%;width:72.5%;vertical-align:middle">
-              <h3>{{post.title}}</h3>
+              <h3><a href="{{post.link}}">{{ post.title }}</a></h3>
               <br>
               {{post.authors}}
 
               <br>
               <em>{{post.venue}}</em>
-              <br>
+              <!-- <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
               {% endif %}
@@ -132,7 +132,7 @@
               <a href="{{post.conference}}">journal</a> /
               {% endif %}
               <p></p>
-              {{ post.excerpt }}
+              {{ post.excerpt }} -->
             </td>
           </tr>
           {% endif %}
