@@ -7,5 +7,5 @@ categories: research
 authors: <strong>Alvin Heng</strong>, Ling Feng, Siew Ann Cheong, Rick Siow Mong Goh
 venue: <strong><i>2018 IEEE 24th International Conference on Parallel and Distributed Systems (ICPADS)</i></strong>
 
-link: https://ieeexplore.ieee.org/abstract/document/8644930/
+paper: https://ieeexplore.ieee.org/abstract/document/8644930/
 ---

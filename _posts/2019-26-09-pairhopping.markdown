@@ -8,6 +8,6 @@ authors: <strong>Alvin Heng</strong>, Wenan Guo, Anders W Sandvik, Pinaki Sengup
 venue: <strong><i>Physical Review B</i></strong>
 
 #paper: assets/pdfs/pair-hopping.pdf
-link: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104433
-# arxiv: https://arxiv.org/abs/1903.04103
+paper: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104433
+arxiv: https://arxiv.org/abs/1903.04103
 ---

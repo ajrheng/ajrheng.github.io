@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models"
+title: "Out-of-Distribution Detection with a Single Unconditional Diffusion Model"
 date: 2019-01-01 22:21:59 +00:00
 image: /assets/imgs/diffpath.png
 categories: research
 authors: <strong>Alvin Heng</strong>, Alexandre H. Thiery, Harold Soh
 venue: <strong><i>Preprint</i></strong>
 
-link: https://arxiv.org/abs/2405.11881
-# code: https://github.com/clear-nus/diffpath
+arxiv: https://arxiv.org/abs/2405.11881
+code: https://github.com/clear-nus/diffpath
 ---

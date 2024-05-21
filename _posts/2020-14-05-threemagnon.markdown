@@ -8,5 +8,6 @@ authors: Rebecca L Dally, <strong>Alvin Heng</strong>, Anna Keselman, Mitchell M
 venue: <strong><i>Physical Review Letters</i></strong>
 
 #paper: assets/pdfs/three-magnon.pdf
-link: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.197203
+paper: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.197203
+arxiv: https://arxiv.org/abs/2001.07300
 ---

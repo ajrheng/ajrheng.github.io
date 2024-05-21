@@ -8,6 +8,6 @@ authors: Abdul Fatir Ansari, <strong>Alvin Heng</strong>, Andre Lim, Harold Soh
 venue: <strong><i>International Conference on Machine Learning (ICML), 2023, Oral</i></strong>
 
 #paper: assets/pdfs/ncdssm.pdf
-link: https://arxiv.org/abs/2301.11308
-# code: https://github.com/clear-nus/NCDSSM
+arxiv: https://arxiv.org/abs/2301.11308
+code: https://github.com/clear-nus/NCDSSM
 ---
