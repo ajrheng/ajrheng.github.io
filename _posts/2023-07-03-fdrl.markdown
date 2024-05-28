@@ -5,7 +5,7 @@ date: 2019-01-01 22:21:59 +00:00
 image: /assets/imgs/fdrl.png
 categories: research
 authors: <strong>Alvin Heng</strong>, Abdul Fatir Ansari, Harold Soh
-venue: <strong><i>Preprint</i></strong>
+venue: <strong><i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i></strong>
 
 #paper: assets/pdfs/fdrl.pdf
 arxiv: https://arxiv.org/abs/2303.03714
