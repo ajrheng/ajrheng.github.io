@@ -5,7 +5,7 @@ date: 2019-01-01 22:21:59 +00:00
 image: /assets/imgs/selective-amnesia.png
 categories: research
 authors: <strong>Alvin Heng</strong>, Harold Soh
-venue: <strong><i>Neural Information Processing Systems (NeurIPS), 2023, Spotlight</i></strong>
+venue: <strong><i>Advances Neural Information Processing Systems 36 (NeurIPS), 2023, Spotlight</i></strong>
 
 #paper: assets/pdfs/selective-amnesia.pdf
 arxiv: https://arxiv.org/abs/2305.10120
